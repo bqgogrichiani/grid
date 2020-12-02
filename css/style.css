@@ -61,4 +61,7 @@ body{
 		"content content content content content content"
 		" footer footer footer footer footer footer"
 	}
+	.featured_profile{
+		display:none;
+	}
 }
